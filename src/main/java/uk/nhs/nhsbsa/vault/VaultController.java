@@ -13,6 +13,6 @@ public class VaultController {
   @GetMapping
   public ServiceConfig getServiceConfig() {
 
-    return vaultService.getConfig("PPC");
+    return vaultService.getConfig("CC");
   }
 }
