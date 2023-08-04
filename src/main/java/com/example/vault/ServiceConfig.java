@@ -1,4 +1,4 @@
-package uk.nhs.nhsbsa.vault;
+package com.example.vault;
 
 import java.util.Map;
 import lombok.AllArgsConstructor;

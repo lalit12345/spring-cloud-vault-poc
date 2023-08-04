@@ -1,4 +1,4 @@
-package uk.nhs.nhsbsa.vault;
+package com.example.vault;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

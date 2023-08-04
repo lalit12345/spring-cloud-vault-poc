@@ -1,4 +1,4 @@
-package uk.nhs.nhsbsa.vault;
+package com.example.vault;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
